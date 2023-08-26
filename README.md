@@ -13,6 +13,7 @@
   - Run tests
   - Deployment
 - 👥 Authors
+- [🔭 Future Features ](#-future-features-)
 - 🔭 Future Features
 - 🤝 Contributing
 - ⭐️ Show your support
@@ -41,6 +42,7 @@ Tech Stack
 # Key Features
 
   - Add book list with book title and author.
+  - 
 
 🚀 Live Demo
 
@@ -72,6 +74,10 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: https://github.com/aster-alemu
 - Twitter: https://twitter.com/home
 - LinkedIn: https://www.linkedin.com/in/aster-alemu-5a62a5211/
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
 
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
