@@ -80,6 +80,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
  - Expand the bookstore functionality
+   - Display the books
+   - Removes a book from the books array
+   - Add styles
 
 
 # 🤝 Contributing
