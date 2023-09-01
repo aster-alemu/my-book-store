@@ -79,6 +79,8 @@ To get a local copy up and running follow these simple example steps.
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
+ - Expand the bookstore functionality
+
 
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
