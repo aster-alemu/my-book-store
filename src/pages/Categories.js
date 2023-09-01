@@ -6,5 +6,4 @@ const Categories = () => (
     <h3>Under Construction</h3>
   </div>
 );
-
 export default Categories;
