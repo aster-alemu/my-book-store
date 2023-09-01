@@ -23,7 +23,8 @@
 
 📖 Book store: full website
 
-This is my six project of the book store application. I set up the environment and tools needed to develop a React application and create a full website for the book store app, consisting of several pages and using the components I already created.
+This is my second project of the book store application. I set up the environment and tools needed to develop a React application and create a full website for the book store app, consisting of several pages and using the components I already created and implement Redux Toolkit inside of a React application, Setup a Redux store
+Create a slice to save your state and reducers
 
 🛠 Built With: 
 
@@ -78,6 +79,11 @@ To get a local copy up and running follow these simple example steps.
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
+ - Expand the bookstore functionality
+   - Display the books
+   - Removes a book from the books array
+   - Add styles
+
 
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
