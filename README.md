@@ -1,105 +1,156 @@
+<a name="readme-top"></a>
+
+<div align="center">
+  <h3><b>Book Store Project</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
- - 📖 About the Project
-  - 🛠 Built With
-   - Tech Stack
-   - Key Features
-🚀- Live Demo
-- 💻 Getting Started
-  - Prerequisites
-  - Setup
-  - Install
-  - Usage
-  - Run tests
-  - Deployment
-- 👥 Authors
-- [🔭 Future Features ](#-future-features-)
-- 🔭 Future Features
-- 🤝 Contributing
-- ⭐️ Show your support
-- 🙏 Acknowledgements
-- ❓ FAQ (OPTIONAL)
-- 📝 License
 
-📖 Book store: full website
+- [📗 Table of Contents](#-table-of-contents)
 
-This is my fourth project of the book store application. I set up the environment and tools needed to develop a React application and create a full website for the book store app, consisting of several pages and using the components I already created and implement Redux Toolkit inside of a React application, Setup a Redux store
-Create a slice to save the state and reducers. also use a Redux store to display books. refactor the code to use an external API to facilitate the adde and remove features.
+- [📖 \[bookstore\] ](#-bookstore-)
 
-🛠 Built With: 
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
 
-Tech Stack
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites ](#prerequisites-)
+    - [Setup ](#setup-)
+    - [Install ](#install-)
+    - [Usage ](#usage-)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-  - HTML
-  - CSS
-  - Javascript
-  - React
-  - Webpack
-  - NPM
-  - Lighthouse (An open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive web apps, SEO and more).
-  - Webhint (A customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors).
-  - Stylelint (A mighty, modern linter that helps you avoid errors and enforce conventions in your styles).
+<!-- PROJECT DESCRIPTION -->
 
-# Key Features
+# 📖 [Book Store Project] <a name="about-project"></a>
 
-  - Add book list with book title and author.
-  - 
+**Book Store Project** This is my fourth project of the book store application. refactor the code to use an external API to facilitate the adde and remove features
 
-🚀 Live Demo
+## 🛠 Built With <a name="built-with"></a>
 
-  - has no live demo
+### Tech Stack <a name="tech-stack"></a>
 
-# 💻 Getting Started
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>React</li>
+    <li>Webpack</li>
+    <li>Jest</li>
+  </ul>
+</details>
 
-To get a local copy up and running follow these simple example steps.
-- install npm: npm install npm@latest -g
+<!-- Features -->
 
-# Setup
+### Key Features <a name="key-features"></a>
 
--  Clone the repo by running the command: 'https://github.com/aster-alemu/my-book-store.git'
+- **Created with react**
+- **Add and delete new book**
 
-# Install
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Install project dependencie: 'run npm install'
+<!-- GETTING STARTED -->
 
-# Usage
+## 💻 Getting Started <a name="getting-started"></a>
 
-  - To run the project, execute the following command: npm start
+To get a local copy up and running, follow these steps.
 
-# Run tests
-  - To run tests, run the following command: npm test
+### Prerequisites <a name="prerequisites">
 
-# 👥 Author
+In order to run this project you need:
 
-👤 Aster
+- Visual Studio Code
+- Node JS
+
+### Setup <a name="setup">
+
+Clone this repository to your desired folder:
+
+Example commands:
+
+```sh
+  mkdir bookstore
+  cd bookstore
+  git clone https://github.com/aster-alemu/my-book-store.git
+```
+
+### Install <a name="install">
+
+```
+npm install
+npm install jest-dom
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Usage <a name="install">
+
+Initialize it with:
+
+```
+npm start
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Aster Alemui**
+
 - GitHub: https://github.com/aster-alemu
 - Twitter: https://twitter.com/home
 - LinkedIn: https://www.linkedin.com/in/aster-alemu-5a62a5211/
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
- - Expand the bookstore functionality
-   - Display the books
-   - Removes a book from the books array
-   - Add styles
 
+- [ ] **Expand the bookstore functionality**
 
-# 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-# Show your support
-Give a ⭐️ if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🙏 Acknowledgments
+<!-- SUPPORT -->
 
-- Hat tip to anyone whose code was used
--Inspiration etc
+## ⭐️ Show your support <a name="support"></a>
 
+If you like this project please show us support by givintg it a star.
 
-## 📝 License <a name="license"></a>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thanks Microverse for this learning opportunity.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license" href="./LICENSE"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
