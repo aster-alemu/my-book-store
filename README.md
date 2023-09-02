@@ -23,8 +23,8 @@
 
 📖 Book store: full website
 
-This is my third project of the book store application. I set up the environment and tools needed to develop a React application and create a full website for the book store app, consisting of several pages and using the components I already created and implement Redux Toolkit inside of a React application, Setup a Redux store
-Create a slice to save the state and reducers. also use a Redux store to display books. I implement react-redux in order to connect the store and then access the state variables (accessed through useSelector) and state modifiers (which is a combination of a reducer and useDispatch).
+This is my fourth project of the book store application. I set up the environment and tools needed to develop a React application and create a full website for the book store app, consisting of several pages and using the components I already created and implement Redux Toolkit inside of a React application, Setup a Redux store
+Create a slice to save the state and reducers. also use a Redux store to display books. refactor the code to use an external API to facilitate the adde and remove features.
 
 🛠 Built With: 
 
