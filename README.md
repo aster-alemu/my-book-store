@@ -33,7 +33,7 @@
 
 # 📖 [Book Store Project] <a name="about-project"></a>
 
-**Book Store Project** This is my fourth project of the book store application. refactor the code to use an external API to facilitate the adde and remove features
+**Book Store Project** This is my fifth project of the book store application. Add style that match with Zeplin 
 
 ## 🛠 Built With <a name="built-with"></a>
 
